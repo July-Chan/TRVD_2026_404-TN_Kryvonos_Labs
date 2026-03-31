@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\middlewares",
+    "\\src\\repositories",
+    "\\src\\services"
+  ],
+  "SelectedNode": "\\src\\controllers\\watchlistController.js",
+  "PreviewInSolutionExplorer": false
+}
